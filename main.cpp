@@ -1,11 +1,3 @@
-
-//=================================================================================
-// Name         : DS Assignment#4
-// Author       : Swostik Pati
-// Version      : 1.0
-// Date Created : Apr-17-2022
-// Date Modified: May-08-2022
-// Description  : Starter Code for Flight-Ticket Management System using HASH TABLE in C++
 //=================================================================================
 #include <iostream>
 #include <cstdlib>
